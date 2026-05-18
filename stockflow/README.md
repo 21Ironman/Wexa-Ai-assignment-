@@ -1,6 +1,6 @@
 # StockFlow MVP
 
-🔗 **Live Deployment Link:** [https://vercel.com/murali-irj/wexa-ai-assignment](https://vercel.com/murali-irj/wexa-ai-assignment)
+🔗 **Live Deployment Link:** [https://wexa-ai-assignment-eosin.vercel.app/auth/login](https://wexa-ai-assignment-eosin.vercel.app/auth/login)
 
 Welcome to the StockFlow project directory! This is the main application code built with Next.js 13, SQLite (Prisma ORM), Tailwind CSS, and custom JWT authentication.
 
