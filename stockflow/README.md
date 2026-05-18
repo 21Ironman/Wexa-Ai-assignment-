@@ -1,4 +1,4 @@
-# StockFlow MVP (6-hr build)
+# StockFlow MVP
 
 Welcome to the StockFlow project directory! This is the main application code built with Next.js 13, SQLite (Prisma ORM), Tailwind CSS, and custom JWT authentication.
 

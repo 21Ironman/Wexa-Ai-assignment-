@@ -1,4 +1,4 @@
-# StockFlow MVP (6-hr build)
+# StockFlow MVP
 
 Welcome to the StockFlow MVP codebase! This project is a multi-tenant inventory management system built with Next.js 13, SQLite (Prisma ORM), Tailwind CSS, and custom JWT authentication.
 
