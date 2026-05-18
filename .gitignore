@@ -1,0 +1,29 @@
+# dependencies
+node_modules/
+stockflow/node_modules/
+
+# next.js build output
+.next/
+stockflow/.next/
+stockflow/out/
+stockflow/build/
+
+# database files (SQLite)
+*.db
+*.db-journal
+stockflow/prisma/*.db
+stockflow/prisma/*.db-journal
+
+# environment variables
+.env
+.env*.local
+stockflow/.env
+stockflow/.env*.local
+
+# vercel
+.vercel
+stockflow/.vercel
+
+# operating system files
+.DS_Store
+Thumbs.db
